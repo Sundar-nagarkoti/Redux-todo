@@ -1,0 +1,13 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+input{
+   margin-left: 35%;
+   width: 20rem;
+   height: 2rem;
+}
+button{
+    margin-left: 2%;
+    height: 2rem;
+}
